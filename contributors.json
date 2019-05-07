@@ -18,5 +18,6 @@
     { "user":"pnobre", "name":"Paulo Nobre", "isMentor":false, "platforms":["fsharp", "csharp"] },
     { "user":"xlozinguez", "name":"Xavier Lozinguez", "isMentor":true, "platforms":["javascript"] },
     { "user":"troykershaw", "name":"Troy Kershaw", "isMentor":false, "platforms":["fsharp"] },
-    { "user":"vsliouniaev", "name":"Vasily Sliouniaev", "isMentor":false, "platforms":["helm"] }
+    { "user":"vsliouniaev", "name":"Vasily Sliouniaev", "isMentor":false, "platforms":["helm"] },
+    { "user":"antoniodds", "name":"Antonio De Dios", "isMentor":false, "platforms":["java", "fsharp"] }
 ]
